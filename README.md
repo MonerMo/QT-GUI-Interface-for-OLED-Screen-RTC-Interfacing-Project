@@ -4,6 +4,6 @@ It shows the study hours and minutes for each slot/subject.
 ---
 ## Project Snapshots 
 ![](https://i.imgur.com/ZHUPxUd.png)
-![](blob:https://imgur.com/b0fb63a0-146f-4238-9e1a-05dde91c42cd)
+![](blob:https://imgur.com/b0fb63a0-146f-4238-9e1a-05dde91c42cd.gif)
 ![](https://i.imgur.com/df8qDVo.png)
 
