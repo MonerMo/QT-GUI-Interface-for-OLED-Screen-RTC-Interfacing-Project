@@ -45,7 +45,7 @@ MainWindow::MainWindow(QWidget *parent)
     file.close();
 
     unsigned char index = 0 ;
-    for(int i = 1 ; i <=8 ; i+=4){
+    for(int i = 1 ; i <=9 ; i+=4){
         unsigned char digit = 0 ;
         unsigned char lsb = text[i].digitValue() ;
         digit |= (lsb << 5 );
