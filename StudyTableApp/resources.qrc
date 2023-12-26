@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/background.jpg</file>
+        <file>text/studyhour.txt</file>
+    </qresource>
+</RCC>
